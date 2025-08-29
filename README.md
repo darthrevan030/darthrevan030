@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sam, a Freshman Computer Engineering student at Nanyang Technological University in Singapore!<br>I am passionate about Cybersecurity and very eager to learn more about the various topics in this broad field.<br>
+Hi, I'm Sam, a Sophomore Computer Engineering student at Nanyang Technological University in Singapore!<br>I am passionate about Cybersecurity and very eager to learn more about the various topics in this broad field.<br>
 
 
 ## 🌐 Socials:
