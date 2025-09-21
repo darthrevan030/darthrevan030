@@ -1,21 +1,60 @@
-# 💫 About Me:
-Hi, I'm Sam, a Sophomore Computer Engineering student at Nanyang Technological University in Singapore!<br>I am passionate about Cybersecurity and very eager to learn more about the various topics in this broad field.<br>
+# Hello!! 👋 I'm Sam!
 
+**Computer Engineering Student @ NTU Singapore | Full-Stack Developer | Cybersecurity Enthusiast**
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhatia.samarth.03@gmail.com) 
+```javascript
+const samarth = {
+    location: "Singapore 🇸🇬",
+    currentFocus: ["Backend Development", "Travel Tech", "Cybersecurity"],
+    education: "Computer Engineering + Business (International Trade)",
+    funFact: "I led my darts team to the Round of 8 with an undefeated record! 🎯"
+};
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat-square&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darthrevan030&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=darthrevan030&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darthrevan030&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=darthrevan030&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```python
+backend = ["Node.js", "Express.js", "Python", "C/C++"]
+databases = ["PostgreSQL", "Supabase"] 
+tools = ["Git", "Power BI", "REST APIs", "Jupyter"]
+learning = ["Cybersecurity", "Penetration Testing", "Advanced Algorithms"]
+```
+
+## 🏆 Highlights
+
+- 🥇 **Gold Award Winner** - SummerBuild 2025 for Trippy Find travel platform
+- 🛡️ **Cybersecurity Enthusiast** - Active member of NTU Cybersecurity Club, advancing expertise in threat analysis and security protocols
+- 🎯 **Team Captain** - Led 20-member darts team to championship success
+- 💼 **Security-Focused Developer** - Built PDPA-compliant systems with role-based access control for 200+ users
+- 🔒 **Risk Assessment Specialist** - Led communication risk assessments for mission-critical military operations
+- 🌐 **Multi-lingual** - English, Hindi, Spanish
+
+## 🎯 Featured Project
+
+### [Trippy Find - Travel Planning Platform](link-to-repo)
+A comprehensive travel API backend integrating real-time flight and hotel data
+- **20+ REST endpoints** for search and booking operations
+- **Multi-destination optimization** algorithms
+- **Real-time flight tracking** with Amadeus API integration
+- **Production-ready infrastructure** with security middleware and performance optimization
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=darthrevan030&show_icons=true&theme=dark)
+
+## 🌱 Currently Exploring
+
+- Advanced penetration testing and ethical hacking techniques
+- Threat intelligence and incident response frameworks
+- Security architecture and vulnerability assessment methodologies
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-bhatia-03-/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarth009@e.ntu.edu.sg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=darthrevan030&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"Building solutions that bridge technology and real-world impact"* ✨
+
+⚡ **Fun fact:** When I'm not coding, you'll find me reading fiction, exploring cybersecurity research, or perfecting my dart throwing technique!
