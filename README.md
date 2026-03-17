@@ -33,23 +33,13 @@ learning   = ["Go (backend services)", "Penetration Testing", "Threat Intelligen
 - 🌱 **YouthTechSG Open Impact Fellow** — Open source programme, May–Oct 2026
 - 🛡️ **NTU Cybersecurity Club** — Threat analysis & security research
 - 🔒 **Security-Focused Developer** — Built PDPA-compliant systems with role-based access control for 200+ users
+- 🌐 **Published on Chrome Web Store** — 20,000+ impressions, 239 peak weekly active users
 - 🎯 **Darts Team Captain** — Led a 20-member team to the Round of 8
-- 🌐 **Multilingual** — English · Hindi · Spanish
+- 🗣️ **Multilingual** — English · Hindi · Spanish
 
 ---
 
 ## 🚀 Featured Projects
-
-### [Money Pasar — Blog Platform](https://moneypasar.com)
-Full-stack blog for a cross-border P2P fintech platform — Cloudinary image pipeline, Edge-compatible middleware, deployed on Vercel.
-- **Next.js + MongoDB** backend with dynamic content management
-- **Cloudinary** integration for scalable image storage
-- **Edge runtime** middleware with auth and performance optimisation
-- **Vercel** deployment with environment-based config
-
-`Next.js` `MongoDB` `Cloudinary` `Vercel` `TypeScript`
-
----
 
 ### [Trippy Find — Travel Planning Platform](https://github.com/darthrevan030/Trippy-Find-Summerbuild-2025)
 Travel API backend with real-time flight and hotel data, built for SummerBuild 2025 (Gold Award).
@@ -62,10 +52,34 @@ Travel API backend with real-time flight and hotel data, built for SummerBuild 2
 
 ---
 
+### [Money Pasar — Blog Platform](https://moneypasar.com)
+Full-stack blog for a cross-border P2P fintech platform — Cloudinary image pipeline, Edge-compatible middleware, deployed on Vercel.
+- **Next.js + MongoDB** backend with dynamic content management
+- **Cloudinary** integration for scalable image storage
+- **Edge runtime** middleware with auth and performance optimisation
+- **Vercel** deployment with environment-based config
+
+`Next.js` `MongoDB` `Cloudinary` `Vercel` `TypeScript`
+
+---
+
 ### [Not Just Black — Chrome Theme](https://github.com/darthrevan030)
 A published Chrome theme with a reusable Makefile build system for packaging and publishing browser extensions.
+- **239 weekly active users** at peak, with consistent organic retention since launch
+- **20,000+ impressions** across the Chrome Web Store
+- **Reusable Makefile pipeline** for packaging, versioning, and publishing browser extensions
 
 `Chrome Extensions` `Makefile` `Build Tooling`
+
+---
+
+### [Singapore Autonomous University Graduate Employment Survey Dashboard](https://github.com/darthrevan030/Graduate-Employment-Survey)
+Interactive data dashboard visualising NTU's Graduate Employment Survey — exploring salary trends, employment rates, and outcomes by degree programme.
+- **Interactive charts** for exploring GES data across cohorts and disciplines
+- **Python + JavaScript** data pipeline from raw survey data to visual layer
+- **Deployed on Vercel** at [ges.samarthbhatia.dev](https://ges.samarthbhatia.dev)
+
+`JavaScript` `Python` `Vite` `Data Visualisation` `Vercel`
 
 ---
 
