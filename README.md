@@ -63,7 +63,7 @@ Full-stack blog for a cross-border P2P fintech platform — Cloudinary image pip
 
 ---
 
-### [Not Just Black — Chrome Theme](https://github.com/darthrevan030)
+### [Not Just Black — Chrome Theme](https://theme.samarthbhatia.dev)
 A published Chrome theme with a reusable Makefile build system for packaging and publishing browser extensions.
 - **239 weekly active users** at peak, with consistent organic retention since launch
 - **20,000+ impressions** across the Chrome Web Store
@@ -107,9 +107,9 @@ Next.js 16 URL shortener with MongoDB persistence — resolved params-as-Promise
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-bhatia-03-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://samarthbhatia.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatia.samarth.03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samarthbhatia.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darthrevan030)
 
 ---
 
