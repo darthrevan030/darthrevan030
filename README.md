@@ -92,7 +92,11 @@ Next.js 16 URL shortener with MongoDB persistence — resolved params-as-Promise
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=darthrevan030&show_icons=true&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darthrevan030&show_icons=true&locale=en&layout=compact" alt="darthrevan030" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darthrevan030&show_icons=true&locale=en" alt="darthrevan030" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthrevan030&" alt="darthrevan030" /></p>
 
 ---
 
