@@ -1,13 +1,14 @@
 # Hi, I'm Samarth (Sam) 👋
-**Computer Engineering + Business @ NTU Singapore | Full-Stack Developer | Cybersecurity Enthusiast**
+
+## Computer Engineering + Business @ NTU Singapore | Full-Stack · AI Security · Blue Team
 
 ```javascript
 const samarth = {
     location:     "Singapore 🇸🇬",
-    currentRole:  "Lead Developer @ Money Pasar",
-    education:    "Computer Engineering + Business (International Trade)",
-    focus:        ["Fintech", "Full-Stack", "Cybersecurity"],
-    funFact:      "Led my darts team to the Round of 8 with an undefeated group stage 🎯"
+    current:      ["QA Engineer @ Temus (Temasek × US Tech JV)", "Product Lead @ Money Pasar", "YouthTechSG Open Impact Fellow (IMDA)"],
+    education:    "Computer Engineering + Business (International Trade) — NTU",
+    focus:        ["AI-Augmented Security", "Full-Stack Engineering", "Cloud & Network Security"],
+    funFact:      "Led my darts team to Round of 8 with an undefeated group stage 🎯"
 };
 ```
 
@@ -16,12 +17,12 @@ const samarth = {
 ## 🛠️ Tech Stack
 
 ```python
-languages  = ["TypeScript", "JavaScript", "Python", "C/C++", "Go"]
-frontend   = ["Next.js", "React", "Tailwind CSS"]
-backend    = ["Node.js", "Express.js", "REST APIs"]
-databases  = ["PostgreSQL", "MongoDB", "Supabase", "Firebase"]
-infra      = ["Docker", "Vercel", "Cloudinary", "Git"]
-learning   = ["Go (backend services)", "Penetration Testing", "Threat Intelligence"]
+languages  = ["Go", "TypeScript", "Python", "Java", "C/C++", "SQL"]
+frontend   = ["Next.js 16", "React 19", "Tailwind CSS v4"]
+backend    = ["Go", "Node.js", "Express.js", "REST APIs", "NextAuth v5"]
+databases  = ["PostgreSQL", "Supabase", "MongoDB Atlas", "Firebase"]
+infra      = ["Docker", "Vercel", "Git", "CI/CD"]
+exploring  = ["Cloud Security (AWS SAA → Security Specialty)", "Network+", "Blue Team / Threat Analysis"]
 ```
 
 ---
@@ -29,90 +30,91 @@ learning   = ["Go (backend services)", "Penetration Testing", "Threat Intelligen
 ## 🏆 Highlights
 
 - 🥇 **SummerBuild 2025 Gold Award** — Trippy Find travel planning platform
-- 💼 **Lead Developer @ Money Pasar** — Cross-border P2P fintech platform
-- 🌱 **YouthTechSG Open Impact Fellow** — Open source programme, May–Oct 2026
-- 🛡️ **NTU Cybersecurity Club** — Threat analysis & security research
-- 🔒 **Security-Focused Developer** — Built PDPA-compliant systems with role-based access control for 200+ users
+- 🤖 **QA Engineer @ Temus** — Built AI automation reducing UAT test case drafting time by 50%
+- 💼 **Product Lead @ Money Pasar** - Cross-border P2P fintech platform
+- 🌱 **YouthTechSG Open Impact Fellow** — IMDA-backed national open source programme (May–Oct 2026)
+- 🛡️ **NTU Cybersecurity Club** — Threat analysis, penetration testing, and security research
+- 🔒 **Security-First Developer** — RBAC, PDPA-compliant systems, DNS sinkhole, L2/L3 network isolation
 - 🌐 **Published on Chrome Web Store** — 20,000+ impressions, 239 peak weekly active users
-- 🎯 **Darts Team Captain** — Led a 20-member team to the Round of 8
 - 🗣️ **Multilingual** — English · Hindi · Spanish
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Trippy Find — Travel Planning Platform](https://github.com/darthrevan030/Trippy-Find-Summerbuild-2025)
-Travel API backend with real-time flight and hotel data, built for SummerBuild 2025 (Gold Award).
-- **20+ REST endpoints** for search and booking operations
-- **Amadeus API** integration for real-time flight tracking
-- **Multi-destination optimisation** algorithms
-- **Production-ready** security middleware and rate limiting
+### [Vantage – Multi-Asset Portfolio Tracker](https://vantage.samarthbhatia.dev) | [GitHub](https://github.com/darthrevan030/Vantage-Summerbuild-2026) | SummerBuild 2026
 
-`Node.js` `Express.js` `REST APIs` `Amadeus API`
+Production-grade multi-asset, multi-currency portfolio SaaS — equities, ETFs, crypto, gold, bonds, real estate across multiple brokers with SGD base currency.
 
----
+- **FX-vs-asset gain decomposition** — deterministic algorithm mathematically isolating currency movement from asset returns; absent in Moomoo, StocksCafe, Syfe
+- **Four-layer full stack** — React Server Components for zero-waterfall load, Supabase Postgres with Row-Level Security enforced at PostgREST layer
+- **Dual-provider AI analyst** — Anthropic `claude-sonnet-4-6` with OpenRouter fallback, streamed over SSE, admin-toggled via feature flags; grounded on real 30-day sparklines to prevent hallucinated scores
 
-### [Money Pasar — Blog Platform](https://moneypasar.com)
-Full-stack blog for a cross-border P2P fintech platform — Cloudinary image pipeline, Edge-compatible middleware, deployed on Vercel.
-- **Next.js + MongoDB** backend with dynamic content management
-- **Cloudinary** integration for scalable image storage
-- **Edge runtime** middleware with auth and performance optimisation
-- **Vercel** deployment with environment-based config
-
-`Next.js` `MongoDB` `Cloudinary` `Vercel` `TypeScript`
+`Next.js 16` `React 19` `TypeScript` `Supabase` `Tailwind CSS v4` `Anthropic API` `OpenRouter` `Vercel`
 
 ---
 
-### [Not Just Black — Chrome Theme](https://theme.samarthbhatia.dev)
-A published Chrome theme with a reusable Makefile build system for packaging and publishing browser extensions.
-- **239 weekly active users** at peak, with consistent organic retention since launch
-- **20,000+ impressions** across the Chrome Web Store
-- **Reusable Makefile pipeline** for packaging, versioning, and publishing browser extensions
+### [Not Just Black — Chrome Extension](https://chromewebstore.google.com/detail/not-just-black/fhcdjmecalepgkapgkigchhabimjilab) | [GitHub](https://github.com/darthrevan030/Not-Just-Black)
 
-`Chrome Extensions` `Makefile` `Build Tooling`
+Published Chrome theme extension — Manifest V3, full build and release pipeline.
 
----
+- **239 weekly active users** at peak, 20,000+ impressions via organic Chrome Web Store growth
+- **Reusable Makefile pipeline** for CRX packaging, OpenSSL signing, and version management
 
-### [Singapore Autonomous University Graduate Employment Survey Dashboard](https://github.com/darthrevan030/Graduate-Employment-Survey)
-Interactive data dashboard visualising NTU's Graduate Employment Survey — exploring salary trends, employment rates, and outcomes by degree programme.
-- **Interactive charts** for exploring GES data across cohorts and disciplines
-- **Python + JavaScript** data pipeline from raw survey data to visual layer
-- **Deployed on Vercel** at [ges.samarthbhatia.dev](https://ges.samarthbhatia.dev)
-
-`JavaScript` `Python` `Vite` `Data Visualisation` `Vercel`
+`Chrome Extensions API` `Manifest V3` `Shell` `Makefiles` `OpenSSL`
 
 ---
 
-### [URL Shortener](https://github.com/darthrevan030/url-shortener)
-Next.js 16 URL shortener with MongoDB persistence — resolved params-as-Promise breaking changes in the App Router.
+### [Trippy Find — Travel Planning Platform](https://github.com/darthrevan030/Trippy-Find-Summerbuild-2025) | SummerBuild 2025 🥇
 
-`Next.js 16` `MongoDB` `TypeScript`
+Production REST API backend for travel planning — real-time flight and hotel data across 150,000+ properties.
+
+- **20+ REST endpoints**, Amadeus API integration, multi-destination route optimisation
+- **Security middleware** (Helmet.js, CORS), health monitoring, response compression and caching
+
+`Node.js` `Express.js` `PostgreSQL` `Supabase` `Amadeus API` `JWT`
 
 ---
 
-## 📈 GitHub Stats
+### [Money Pasar — Cross-Border Fintech Platform](https://moneypasar.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthrevan030&" alt="darthrevan030" /></p>
+Product Lead on SGD↔MYR P2P currency exchange platform.
+
+- **Go payments backend** integrating EurexaX API for cross-border transactions
+- **Production RBAC** with NextAuth v5 — three permission levels (user, admin, superadmin)
+- **Database migration** from Firebase to MongoDB Atlas with serverless-optimised connection pooling
+
+`Go` `Next.js 16` `TypeScript` `MongoDB Atlas` `NextAuth v5` `Docker` `Vercel`
+
+---
+
+### Home Lab — Network Security & Infrastructure | Ongoing
+
+- **NAS + Docker** — containerised storage, backups, and self-hosted services
+- **Pi-hole DNS sinkhole** — network-wide ad blocking, DNS query logging, traffic analysis
+- **macvlan networking** — dedicated IPs per container, L2/L3 isolation, subnetting and VLAN concepts
+
+`Docker` `Linux` `Pi-hole` `macvlan` `DNS` `TCP/IP`
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Backend services in Go
-- Advanced penetration testing and ethical hacking
-- Threat intelligence and incident response frameworks
-- Security architecture and vulnerability assessment
+- Blue team security — threat analysis, incident response, log forensics
+- Cloud security architecture (AWS SAA → AWS Security Specialty)
+- Network fundamentals deep dive (CompTIA Network+, OSI layers, routing protocols)
+- LLM + security tooling — AI-augmented threat detection and SOC workflows
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://samarthbhatia.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-bhatia-03-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatia.samarth.03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darthrevan030)
 
 ---
 
-*"Building solutions that bridge technology and real-world impact"* ✨
+#### "Security is an engineering problem. I'm working on both."
 
-⚡ **Fun fact:** When I'm not coding, you'll find me behind a camera lens, exploring cybersecurity research, or perfecting my dart throw.
+⚡ **Fun fact:** When not coding, you'll find me behind a camera, reading fiction, or practicing my dart throw.
