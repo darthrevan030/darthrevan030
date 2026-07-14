@@ -5,7 +5,7 @@
 ```javascript
 const samarth = {
     location:     "Singapore 🇸🇬",
-    current:      ["QA Engineer @ Temus (Temasek × US Tech JV)", "Product Lead @ Money Pasar", "YouthTechSG Open Impact Fellow (IMDA)"],
+    current:      ["Product Lead @ Money Pasar", "YouthTechSG Open Impact Fellow @ Mojaloop"],
     education:    "Computer Engineering + Business (International Trade) — NTU",
     focus:        ["AI-Augmented Security", "Full-Stack Engineering", "Cloud & Network Security"],
     funFact:      "Led my darts team to Round of 8 with an undefeated group stage 🎯"
@@ -19,10 +19,11 @@ const samarth = {
 ```python
 languages  = ["Go", "TypeScript", "Python", "Java", "C/C++", "SQL"]
 frontend   = ["Next.js 16", "React 19", "Tailwind CSS v4"]
-backend    = ["Go", "Node.js", "Express.js", "REST APIs", "NextAuth v5"]
+backend    = ["Go", "Node.js", "Express.js", "REST APIs", "NextAuth v5", "Supabase Auth (OAuth)"]
 databases  = ["PostgreSQL", "Supabase", "MongoDB Atlas", "Firebase"]
-infra      = ["Docker", "Vercel", "Git", "CI/CD"]
-exploring  = ["Cloud Security (AWS SAA → Security Specialty)", "Network+", "Blue Team / Threat Analysis"]
+ai_agents  = ["Anthropic API", "OpenRouter", "MCP", "Agentic Workflows"]
+infra      = ["Docker", "Vercel", "AWS", "Terraform", "Git", "CI/CD"]
+exploring  = ["AWS Security Specialty", "CompTIA Network+", "Blue Team / Threat Analysis"]
 ```
 
 ---
@@ -30,12 +31,11 @@ exploring  = ["Cloud Security (AWS SAA → Security Specialty)", "Network+", "Bl
 ## 🏆 Highlights
 
 - 🥇 **SummerBuild 2025 Gold Award** — Trippy Find travel planning platform
-- 🤖 **QA Engineer @ Temus** — Built AI automation reducing UAT test case drafting time by 50%
-- 💼 **Product Lead @ Money Pasar** - Cross-border P2P fintech platform
-- 🌱 **YouthTechSG Open Impact Fellow** — IMDA-backed national open source programme (May–Oct 2026)
+- 💼 **Product Lead @ Money Pasar** - FX optimization platform for cross-border SGD↔MYR transfers
+- 🌱 **YouthTechSG Open Impact Fellow** — Contributing to Mojaloop open-source fintech infrastructure
 - 🛡️ **NTU Cybersecurity Club** — Threat analysis, penetration testing, and security research
 - 🔒 **Security-First Developer** — RBAC, PDPA-compliant systems, DNS sinkhole, L2/L3 network isolation
-- 🌐 **Published on Chrome Web Store** — 20,000+ impressions, 239 peak weekly active users
+- 🌐 **Published on Chrome Web Store** — 48.5K impressions, 737 installs, 3x weekly user growth
 - 🗣️ **Multilingual** — English · Hindi · Spanish
 
 ---
@@ -54,11 +54,24 @@ Production-grade multi-asset, multi-currency portfolio SaaS — equities, ETFs, 
 
 ---
 
+### [Cloud-Janitor — AI-Native AWS Cloud Auditor](https://github.com/darthrevan030/Cloud-Janitor) | kiro-buildfest 2026
+
+Agentic auditor that scans AWS accounts for cost waste and security gaps, then generates Terraform remediations — built with Kiro IDE.
+
+- **Finds waste and security gaps** across AWS resources automatically
+- **Generates Terraform remediations** for each finding instead of just flagging issues
+- **Human-in-the-loop by design** — every fix requires explicit approval before touching infrastructure
+
+`Python` `AWS` `Terraform` `Kiro IDE` `Agentic AI`
+
+---
+
 ### [Not Just Black — Chrome Extension](https://chromewebstore.google.com/detail/not-just-black/fhcdjmecalepgkapgkigchhabimjilab) | [GitHub](https://github.com/darthrevan030/Not-Just-Black)
 
 Published Chrome theme extension — Manifest V3, full build and release pipeline.
 
-- **239 weekly active users** at peak, 20,000+ impressions via organic Chrome Web Store growth
+- **48.5K impressions, 737 installs** via organic Chrome Web Store growth — no paid promotion
+- **~60 weekly users**, up 3x from launch baseline
 - **Reusable Makefile pipeline** for CRX packaging, OpenSSL signing, and version management
 
 `Chrome Extensions API` `Manifest V3` `Shell` `Makefiles` `OpenSSL`
@@ -78,7 +91,7 @@ Production REST API backend for travel planning — real-time flight and hotel d
 
 ### [Money Pasar — Cross-Border Fintech Platform](https://moneypasar.com)
 
-Product Lead on SGD↔MYR P2P currency exchange platform.
+Product Lead on SGD↔MYR FX optimization platform for cross-border transfers.
 
 - **Go payments backend** integrating EurexaX API for cross-border transactions
 - **Production RBAC** with NextAuth v5 — three permission levels (user, admin, superadmin)
@@ -109,9 +122,7 @@ Product Lead on SGD↔MYR P2P currency exchange platform.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-bhatia-03-/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatia.samarth.03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darthrevan030)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-bhatia-03-/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatia.samarth.03@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darthrevan030)
 
 ---
 
