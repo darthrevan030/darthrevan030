@@ -1,12 +1,16 @@
-# Hi, I'm Samarth (Sam) 👋
+# Samarth Bhatia (Sam) — Full-Stack Developer, AI Security & Cloud Engineer
 
-## Computer Engineering + Business @ NTU Singapore | Full-Stack · AI Security · Blue Team
+**Portfolio: [samarthbhatia.com](https://samarthbhatia.com)** · Computer Engineering + Business (International Trade), NTU Singapore
+
+Full-stack engineer and AI-augmented security researcher building production fintech, portfolio-tracking, and cloud-security tooling in Go, TypeScript, and Python. Currently Product Lead at Money Pasar and IMDA-backed YouthTechSG Open Impact Fellow.
 
 ```javascript
 const samarth = {
+    role:         "Full-Stack Developer | AI Security Researcher | Cloud & Network Security",
     location:     "Singapore 🇸🇬",
-    current:      ["QA Engineer @ Temus (Temasek × US Tech JV)", "Product Lead @ Money Pasar", "YouthTechSG Open Impact Fellow (IMDA)"],
-    education:    "Computer Engineering + Business (International Trade) — NTU",
+    website:      "https://samarthbhatia.com",
+    current:      ["Product Lead @ Money Pasar", "YouthTechSG Open Impact Fellow (IMDA)"],
+    education:    "Computer Engineering + Business (International Trade) — NTU Singapore",
     focus:        ["AI-Augmented Security", "Full-Stack Engineering", "Cloud & Network Security"],
     funFact:      "Led my darts team to Round of 8 with an undefeated group stage 🎯"
 };
@@ -30,19 +34,21 @@ exploring  = ["Cloud Security (AWS SAA → Security Specialty)", "Network+", "Bl
 ## 🏆 Highlights
 
 - 🥇 **SummerBuild 2025 Gold Award** — Trippy Find travel planning platform
-- 🤖 **QA Engineer @ Temus** — Built AI automation reducing UAT test case drafting time by 50%
-- 💼 **Product Lead @ Money Pasar** - Cross-border P2P fintech platform
+- 🤖 **Former QA Engineer @ Temus** — Built AI automation reducing UAT test case drafting time by 50%
+- 💼 **Product Lead @ Money Pasar** — Cross-border P2P fintech platform (Go, Next.js, MongoDB Atlas)
 - 🌱 **YouthTechSG Open Impact Fellow** — IMDA-backed national open source programme (May–Oct 2026)
 - 🛡️ **NTU Cybersecurity Club** — Threat analysis, penetration testing, and security research
 - 🔒 **Security-First Developer** — RBAC, PDPA-compliant systems, DNS sinkhole, L2/L3 network isolation
 - 🌐 **Published on Chrome Web Store** — 20,000+ impressions, 239 peak weekly active users
 - 🗣️ **Multilingual** — English · Hindi · Spanish
 
+📄 Full project list, resume, and contact card: **[samarthbhatia.com](https://samarthbhatia.com)**
+
 ---
 
 ## 🚀 Featured Projects
 
-### [Vantage – Multi-Asset Portfolio Tracker](https://vantage.samarthbhatia.dev) | [GitHub](https://github.com/darthrevan030/Vantage-Summerbuild-2026) | SummerBuild 2026
+### [Vantage — Multi-Asset Portfolio Tracker](https://vantage.samarthbhatia.dev) | [GitHub](https://github.com/darthrevan030/Vantage-Summerbuild-2026) | SummerBuild 2026
 
 Production-grade multi-asset, multi-currency portfolio SaaS — equities, ETFs, crypto, gold, bonds, real estate across multiple brokers with SGD base currency.
 
@@ -109,6 +115,7 @@ Product Lead on SGD↔MYR P2P currency exchange platform.
 
 ## 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-samarthbhatia.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samarthbhatia.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-bhatia-03-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatia.samarth.03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darthrevan030)
